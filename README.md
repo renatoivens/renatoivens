@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Renato Ivens 👋
 
-<!--
-**renatoivens/renatoivens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Java and JavaScript
+- 💬 Ask me about english (I'm english teacher)
+- 📫 How to reach me:  by email (renatoivens@edu.unifor.br)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm  English Teacher and  I teach in High School,  I like games and series, and listen music.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/renatoivens">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatoivens&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoivens&layout=compact&langs_count=7&theme=merko"/>
+</div>
