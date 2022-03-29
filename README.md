@@ -23,7 +23,6 @@
   <a href="https://github.com/renatoivens">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=renatoivens&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoivens&layout=compact&langs_count=7&theme=merko"/>
- 
 </div>
   
 ## Languages in which I am learning...🤓🖥
