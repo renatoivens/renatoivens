@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Java and JavaScript
 - 💬 Ask me about english (I'm english teacher)
-- 📫 How to reach me:  by email (renatoivens@edu.unifor.br)
+- 📫 How to reach me:  by email (renatoivensdev@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm  English Teacher and  I teach in High School,  I like games and series, and listen music.
 
