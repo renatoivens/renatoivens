@@ -5,7 +5,7 @@
 [![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)](https://www.deezer.com/br/profile/294716053)
 
 
-- 🌱 I’m currently learning Java and JavaScript
+- 🌱 I’m currently learning FrontEnd
 - 💬 Ask me about english (I'm english teacher)
 - 📫 How to reach me:  by email (renatoivensdev@gmail.com)
 - 😄 Pronouns: He/Him
